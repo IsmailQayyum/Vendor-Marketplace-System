@@ -1,4 +1,5 @@
 EZ_mart is an Online Mart Desktop Application. This desktop application was made with the idea of creating a platform where customers and sellers can interact. 
+
 ![image](https://github.com/IsmailQayyum/Online-Mart-Desktop-Application/assets/152914864/6e42e87a-0ac0-4383-85d9-4212d1a3f719)
 
 This application entertains three roles 1. Admin 
